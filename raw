@@ -1,0 +1,23 @@
+<form>
+       <fieldset>
+          <legend><a class="text-white">Select your career preference</a></legend>
+          <p>
+             <label><a class="text-white">Career list</a></label>
+             <select id = "myList" onChange="window.location.href=this.value">
+			   <option value = "#"></option>
+               <option value = "microbiologist.html">BSA in Microbiologist</option>
+               <option value ="IT.html">IT Specialist</option>
+               <option value = "mech.html"><li><a href=>Mechanical Engineering</a></li></option>
+			   <option value ="instrumentation.html">Instrumentation Engineering</option>
+			   <option value = "physics.html"> BSC Physics</option>
+			   <option value = "bbm.html"> BBM </option>
+			   <option value = "statistics.html"> BSC Statistics </option>
+			   <option value = "civil.html"> Civil Engineering </option>
+			   <option value = "bca1.html"> BCA</option>
+			   <option value = "architect.html"> Architect</option>
+			   
+			   
+			   </select>
+          </p>
+       </fieldset>
+    </form>	

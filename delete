@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Careers &mdash; </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700,900|Display+Playfair:200,300,400,700"> 
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/style.css">
+    
+  </head>
+  <body>    
+    <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    <div class="site-section bg-image overlay" style="background-image: url('images/hero_bg_4.jpg');" >
+    <header class="site-navbar py-3" role="banner">
+
+      <div class="container">
+        <div class="row align-items-center">
+          
+          <div class="col-11 col-xl-2">
+		  
+            <h1 class="mb-0"><a href="index.html" class="text-white h2 mb-0">QareerWale</a></h1>
+          </div>
+          <div class="col-12 col-md-10 d-none d-xl-block">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+
+              <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
+                <li><a href="index.html">Home</a></li>
+             
+                <li><a href="index.html#section-contact" class="nav-link">Contact</a></li>
+              </ul>
+            </nav>
+          </div>
+
+
+          <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
+
+          </div>
+
+        </div>
+      </div>
+      
+    </header>
+   </div>
+  
+  <body>
+  
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    
+    <header class="site-navbar py-3" role="banner">
+
+      <div class="container">
+        <div class="row align-items-center">
+          
+ 
+          <div class="col-12 col-md-12 d-none d-xl-block">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+
+              <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
+                
+                <li class="active"><a href="#">Instrumentation Engineering</a></li>
+                
+              </ul>
+            </nav>
+          </div>
+
+
+          <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
+
+          </div>
+
+        </div>
+      </div>
+      
+    </header>
+
+  
+
+    
+  
+    <div class="site-section">             
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src=" images/IA.png" alt="Image" class="img-fluid" style="width:350px;height:300px">
+              <h2 class="font-size-regular"><a href="#">Industrial Automation</a></h2>
+   
+              <p>
+			 Industrial Automation is the process of utilising the machineries to an extent to reduce human work to
+			 the most minimum or zero. It works towards completing a project or daily work through automated machines
+			 with less to no man power. As an Industrial Automation engineer, the responsibilities include to 
+			 analyse and identify any bugs or quality issues in the systems, networks, applications, hardware and 
+			 software that may hamper in the development, service or business processes.
+			  </p>
+            </div> 
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="images/CI.png" alt="Image" class="img-fluid" style="width:350px;height:300px">
+              <h2 class="font-size-regular"><a href="#">Chemical industries</a></h2>
+              <p>Chemical industries comprises of the companies that use chemical process and procedures to make chemicals. 
+			  It uses raw materials such as fossil fuels,limestone, air, water, salt and sulfur to treat them chemically 
+			  and produce materials for use. These products produced are mainly sold within the chemical industry use 
+			  and later for general public use. Most chemical companies also produce plastic. Chemical engineers use their
+			  knowledge of science and mathematics to bring improvements in the equipment used in the processing chemicals.
+</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="images/MI.png" alt="Image" class="img-fluid" style="width:350px;height:300px">
+              <h2 class="font-size-regular"><a href="#">Manufacturing industries</a></h2>
+              <p>All companies that manufacture products using raw materials and using labour and machines, tools, 
+			  chemical and biological processing, or formulation falls under the umbrella of Manufacturing industries.
+			  Manufacturing industries is defined as the branch of manufacture and trade based on the fabrication, processing, 
+			  or preparation of products from raw materials and commodities. This includes all foods, chemicals, textiles, 
+			  machines, and equipment. This includes all refined metals and minerals derived from extracted ores. 
+			  This includes all lumber, wood, and pulp products.</p>
+            </div> 
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="images/BMI.png" alt="Image" class="img-fluid" style="width:350px;height:300px"> 
+              <h2 class="font-size-regular"><a href="#">Bio medical industries</a></h2>
+              <p>Biomedical industries purpose is to manufacture and produce medical equipments and materials for the 
+			  healthcare of humans and animals. Its prime job is to make available adequate supplies for diagnosis 
+			  of health risks, and the prevention and treatment of illnesses. Biomedical engineers  Design systems and
+			  products, such as artificial internal organs, artificial devices that replace body parts. They also 
+			  Evaluate the safety, efficiency, and effectiveness of biomedical equipment.</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="images/AESP.png" alt="Image" class="img-fluid" style="width:350px;height:300px">
+              <h2 class="font-size-regular"><a href="#">Aeronautical and space science sector</a></h2>
+              <p>Aeronautical and space science sector is one of the most powerful industries. This sector
+			  caters to markets such as missiles, space, military aircraft, commercial airliners and general
+			  aviation. This sector provides military and civil aerospace hardware to the world. This sector
+			  hires engineers, scientists and technicians in large numbers due to the emphasis given on research 
+			  and development. This is an ever growing industry and job opportunities always being available for a qualified candidate.</p>
+            </div> 
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="images/SMI.png" alt="Image" class="img-fluid" style="width:350px;height:300px">
+              <h2 class="font-size-regular"><a href="#">Steel Manufacturing industry</a></h2>
+              <p>Steel Manufacturing industry basically comprise of companies that work on making steel through the use of 
+			  iron ore and/or scrap. During the process, all the impurities are removed from the iron to have a solid and quality steel.
+			  These companies not only manufacture about also  bend, align, cut, weld and assemble metals using various tools as per 
+			  the requirements. Data suggest that India could be the world’s second largest steel consumer in 2019*.</p>
+            </div>
+          </div>
+		   <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="images/OAG.png" alt="Image" class="img-fluid" style="width:350px;height:300px">
+              <h2 class="font-size-regular"><a href="#">Oil and gas and petrochemical industries</a></h2>
+              <p>Oil and gas industry also known as Petroleum industry undertakes the global processes of exploration, extraction,
+			  refining, transporting, and marketing of petroleum products. Fuel oil and gasoline being the largest volume products 
+			  of the industry. Petrochemical is a chemical obtained from petroleum and natural gas hence petrochemical industry 
+			  deals with the production and trade of petrochemicals.Reliance Industries is one of India's biggest industrial 
+			  groupings and the largest private sector company. </p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="images/DARI.png" alt="Image" class="img-fluid" style="width:350px;height:300px">
+              <h2 class="font-size-regular"><a href="#">Defense Research and Production Units</a></h2>
+              <p>As stated by the government of India, the Department of Defence Research is headed by a Secretary, who is
+			  also the Scientific Adviser to the Raksha Mantri and its duty is to  the Government on scientific aspects 
+			  of military equipment and logistics and the formulation of research, design and development plans for equipment
+			  required by the Services. Similarly, the Department of Defence Production is headed by a Secretary who 
+			  deals with matters pertaining to defence production, indigenisation of imported stores, equipment and spares, 
+			  planning and control of departmental production units of the Ordnance Factory Board and Defence Public Sector Undertakings (DPSUs).</p>
+            </div> 
+          </div>
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
+            <div class="h-entry">
+              <img src="images/SHS.png" alt="Image" class="img-fluid" style="width:350px;height:300px">
+              <h2 class="font-size-regular"><a href="#">Software and hardware sectors</a></h2>
+              <p>Software and hardware sectors both are different sectors yet work on the computer related process and problems 
+			  hand in hand. While Hardware sectors mainly manufacture, repair and maintain the physical parts of a computer, 
+			  contradicting this the software sectors work on computer programming, coding and database on the servers with the use 
+			  of a computer. The combination of instrumentation’s knowledge and  computer languages has proven to be very successful 
+			  in these sectors. It is very essential to have knowledge regarding computer languages. </p>
+            </div>
+          </div
+        </div>
+      </div>
+    </div>
+
+    
+  
+   
+			
+            <a href="#3">3</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    
+    
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-9">
+            <div class="row">
+              <div class="col-md-3">
+                <h2 class="footer-heading mb-4">Quick Links</h2>
+                <ul class="list-unstyled">
+                  <li><a href="#">About Us</a></li>
+                  <li><a href="#">Services</a></li>
+                  <li><a href="#">Testimonials</a></li>
+                  <li><a href="#">Contact Us</a></li>
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h2 class="footer-heading mb-4">Products</h2>
+                <ul class="list-unstyled">
+                  <li><a href="#">About Us</a></li>
+                  <li><a href="#">Services</a></li>
+                  <li><a href="#">Testimonials</a></li>
+                  <li><a href="#">Contact Us</a></li>
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h2 class="footer-heading mb-4">Features</h2>
+                <ul class="list-unstyled">
+                  <li><a href="#">About Us</a></li>
+                  <li><a href="#">Services</a></li>
+                  <li><a href="#">Testimonials</a></li>
+                  <li><a href="#">Contact Us</a></li>
+                </ul>
+              </div>
+              <div class="col-md-3">
+                <h2 class="footer-heading mb-4">Follow Us</h2>
+                <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+                <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <h2 class="footer-heading mb-4">Subscribe Newsletter</h2>
+            <form action="#" method="post">
+              <div class="input-group mb-3">
+                <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
+                <div class="input-group-append">
+                  <button class="btn btn-primary text-white" type="button" id="button-addon2">Send</button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <div class="border-top pt-5">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.countdown.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/bootstrap-datepicker.min.js"></script>
+  <script src="js/aos.js"></script>
+
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
